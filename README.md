@@ -10,17 +10,33 @@ My name is Harsh Patel<br>Web Dev<br>🌍 I'm based in India<br>🖥️ See my p
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hp4274&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=hp4274&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hp4274&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hp4274&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="Harsh's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=hp4274&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hp4274&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages"
+  />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hp4274&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=hp4274&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" 
+    alt="GitHub Trophies"
+  />
 </p>
 
 ## 🐍 Snake Game
